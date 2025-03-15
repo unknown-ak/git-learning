@@ -1,1 +1,7 @@
 hello my self Abdul Kareem.
+git-init
+git -status
+git add filename
+gi add. =to add all tthe files into staging 
+git commit-m "message"
+git log  

@@ -2,6 +2,16 @@ hello my self Abdul Kareem.
 git-init
 git -status
 git add filename
-gi add. =to add all tthe files into staging 
+gi add . =to add all tthe files into staging 
 git commit-m "message"
 git log  
+git diff filename = to get the dicference btw modifed and old file
+hello my self Abdul Kareem.
+git-init
+git -status
+git add filename
+gi add . =to add all tthe files into staging 
+git commit -m "message"
+git log  
+git diff filename = to get the dicference btw modifed and old file
+git checkout = to rollback the changes .

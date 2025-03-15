@@ -15,3 +15,4 @@ git commit -m "message"
 git log  
 git diff filename = to get the dicference btw modifed and old file
 git checkout = to rollback the changes .
+git merge  branch-name =  to merege the branches
